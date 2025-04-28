@@ -43,6 +43,6 @@ Mousey is an endless runner game where players control a mouse character navigat
 - **Game Title**: Cool text by *cooltext.com*
 
 ## Screenshots
-![Menu Screenshot](docs/menu.png)
-![Gameplay Screenshot](docs/gameplay.png)
+![Menu Screenshot](docs/menu.PNG)
+![Gameplay Screenshot](docs/gameplay.PNG)
 
